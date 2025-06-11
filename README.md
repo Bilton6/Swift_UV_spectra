@@ -4,7 +4,7 @@ This repository contains ultraviolet grism spectra of nearby Type Ia supernovae 
 
 These spectra were used in the analysis presented in:
 
-**"The Ultraviolet Spectra of Type Ia Supernovae"**  
+**"The Ultraviolet Spectra of 2003fg-like Type Ia Supernovae"**  
 Snehasish Bhattacharjee *et al.*, submitted to *[MNRAS]*  
 arXiv: [https://arxiv.org/abs/2504.05869](https://arxiv.org/abs/2504.05869)
 
