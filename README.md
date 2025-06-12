@@ -17,7 +17,7 @@ If you use these spectra in your research, please cite the following papers:
 - Bhattacharjee, S. *et al.*, "*The Ultraviolet Spectra of 2003fg-like Type Ia Supernovae*", submitted to *MNRAS*, arXiv:2504.05869.
  
 - Pan, Y.-C. *et al.*, "*Swift UVOT grism observations of nearby Type Ia supernovae – II. Probing the progenitor metallicity of SNe Ia with ultraviolet spectra*",  
-  *Monthly Notices of the Royal Astronomical Society*, (2020) **491**(4), 5897–5910  
+  *Monthly Notices of the Royal Astronomical Society*, (2020), **491**(4), 5897–5910  
   [https://doi.org/10.1093/mnras/stz3379](https://doi.org/10.1093/mnras/stz3391)
 
 - Pan, Y.-C. *et al.*, "*Swift UVOT grism observations of nearby Type Ia supernovae – I. Observations and data reduction*",  
