@@ -20,11 +20,11 @@ And the following related works:
 
 - Pan, Y.-C., Foley, R. J., Filippenko, A. V., & Kuin, N. P. M. (2018),  
   *Monthly Notices of the Royal Astronomical Society*, **479**(1), 517–535  
-  [https://doi.org/10.1093/mnras/sty1443](https://doi.org/10.1093/mnras/sty1443)
+  [https://doi.org/10.1093/mnras/sty1443](https://doi.org/10.1093/mnras/sty1420)
 
 - Pan, Y.-C., Foley, R. J., Jones, D. O., Filippenko, A. V., & Kuin, N. P. M. (2020),  
   *Monthly Notices of the Royal Astronomical Society*, **491**(4), 5897–5910  
-  [https://doi.org/10.1093/mnras/stz3379](https://doi.org/10.1093/mnras/stz3379)
+  [https://doi.org/10.1093/mnras/stz3379](https://doi.org/10.1093/mnras/stz3391)
 
 ---
 
