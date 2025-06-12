@@ -2,14 +2,6 @@
 
 This repository contains ultraviolet grism spectra of nearby Type Ia supernovae observed with the **Ultraviolet/Optical Telescope (UVOT)** on the *Neil Gehrels Swift Observatory*.
 
-These spectra were used in the analysis presented in:
-
-**"The Ultraviolet Spectra of 2003fg-like Type Ia Supernovae"**  
-Snehasish Bhattacharjee *et al.*, submitted to *MNRAS*  
-arXiv: [https://arxiv.org/abs/2504.05869](https://arxiv.org/abs/2504.05869)
-
----
-
 ## 📜 Citation
 
 If you use these spectra in your research, please cite the following papers:
