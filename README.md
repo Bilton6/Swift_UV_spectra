@@ -1,4 +1,4 @@
-# Swift UVOT UV Spectra of Nearby Type Ia Supernovae
+# Swift UV Spectra of Nearby Type Ia Supernovae
 
 This repository contains ultraviolet grism spectra of nearby Type Ia supernovae observed with the **Ultraviolet/Optical Telescope (UVOT)** on the *Neil Gehrels Swift Observatory*.
 
