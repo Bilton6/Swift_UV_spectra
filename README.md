@@ -2,7 +2,7 @@
 
 This repository contains ultraviolet grism spectra of nearby Type Ia supernovae observed with the **Ultraviolet/Optical Telescope (UVOT)** on the *Neil Gehrels Swift Observatory*. 
 
-All spectra provided here are fully corrected and derealshifted for both Milky Way and host galaxy extinction/redshift. These represent the final spectra used in our papers.
+All spectra provided here are fully corrected for both Milky Way and host-galaxy extinction, and are deredshifted to the rest frame. These represent the final spectra used in our papers.
 
 ## 📜 Citation
 
